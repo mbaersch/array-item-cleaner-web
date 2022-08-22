@@ -120,7 +120,13 @@ return it;
 
 ___TESTS___
 
-scenarios: []
+scenarios:
+- name: Multiple instances
+  code: "const mockData = {\n  inputArray: '[{\"item_name\":\"This & That | A Foo\
+    \ & Bar Product\", \"item_id\":\"123\"}]',\n  rules: [{rule: '(&)', replacement:\
+    \ '+'}],\n  keyNames: [{keyName: 'item_name'}]  \n};\n\nlet variableResult = runCode(mockData);\n\
+    assertThat(variableResult).isEqualTo([{\"item_name\":\"This + That | A Foo + Bar\
+    \ Product\",\"item_id\":\"123\"}]);"
 
 
 ___NOTES___

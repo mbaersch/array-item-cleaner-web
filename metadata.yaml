@@ -2,5 +2,5 @@ homepage: "https://www.markus-baersch.de"
 documentation: "https://github.com/mbaersch/array-item-cleaner-web#readme"
 versions:
   # Latest version
-  - sha: b042b5f07295c2b08e35cf8023a26c254f4e6868
+  - sha: 52d7d7fdd8b5a3e3869ebab96698e26d20ecf865
     changeNotes: Initial release.

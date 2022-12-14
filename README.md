@@ -1,5 +1,12 @@
-# Array Item Cleaner (array-item-cleaner-web)
-Google Tag Manager Custom Variable Template for array item cleanup with RegEx 
+# Array Item Cleaner 
+
+**Custom Variable Template for Google Tag Manager**
+
+Cleanup for array items with RegEx 
+
+![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/array-item-cleaner-web) ![License](https://img.shields.io/github/license/mbaersch/array-item-cleaner-web)
+
+---
 
 ## Usage
 - define any array or JSON string as input for a string value cleanup in selected keys (only first level keys possible).  

@@ -1,4 +1,4 @@
-# Array Item Cleaner 
+# Array Item Cleaner (Web GTM)
 
 **Custom Variable Template for Google Tag Manager**
 

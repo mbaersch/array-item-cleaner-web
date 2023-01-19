@@ -4,7 +4,7 @@
 
 Cleanup for array items with RegEx 
 
-![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/array-item-cleaner-web) ![License](https://img.shields.io/github/license/mbaersch/array-item-cleaner-web)
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/array-item-cleaner-web) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/array-item-cleaner-web) ![License](https://img.shields.io/github/license/mbaersch/array-item-cleaner-web)
 
 ---
 
